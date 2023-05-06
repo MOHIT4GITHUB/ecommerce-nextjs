@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.heading {
+    @apply font-semibold text-4xl;
+}
+
+.sub-heading {
+    @apply font-semibold text-3xl;
+}
